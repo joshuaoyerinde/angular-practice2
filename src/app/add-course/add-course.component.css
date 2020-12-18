@@ -1,0 +1,12 @@
+.btn{
+    background-color:darkblue;
+    color: white;
+}
+/* .container{ */
+  /* margin-top: 10px !important; */
+
+/* } */
+.control{
+  border: none;
+  border-bottom: 1px solid darkblue;
+}
